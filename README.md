@@ -3,6 +3,11 @@
 ## Web Application
 Link to web application : https://admission-chances.herokuapp.com/
 
+![image](https://user-images.githubusercontent.com/70757239/107155320-b4db8780-699d-11eb-8596-09f9162a0199.png)
+
+
+![image](https://user-images.githubusercontent.com/70757239/107155343-dd638180-699d-11eb-800f-9b4e4615d1a5.png)
+
 ## Overview
 This is the flask app which predicts the admission chances of a student for the Masters 
 
